@@ -6,7 +6,7 @@
  * and open the template in the editor.
  */
 
-namespace alex290\treemanager;
+namespace ConstantinGD\treemanager;
 
 use yii\web\AssetBundle;
 
