@@ -1,6 +1,6 @@
 <?php
 
-namespace ConstantinGD\treemanager\controllers;
+namespace constantingd\treemanager\controllers;
 
 use yii\web\Controller;
 
