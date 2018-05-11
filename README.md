@@ -14,13 +14,13 @@ Yii2 Tree Manager Category
 Запустить
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-php composer.phar require --prefer-dist alex290/yii2-treemanager "*"
+php composer.phar require --prefer-dist ConstantinGD/yii2-treemanager "*"
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 или добавить
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-"alex290/yii2-treemanager": "*"
+"ConstantinGD/yii2-treemanager": "*"
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 в раздел require вашего `composer.json` файла.
@@ -29,7 +29,7 @@ php composer.phar require --prefer-dist alex290/yii2-treemanager "*"
 
 	'modules' => [
         'treemanager' => [
-            'class' => 'alex290\treemanager\Module',
+            'class' => 'ConstantinGD\treemanager\Module',
             'layout' => false,
         ],
     ],
