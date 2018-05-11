@@ -1,7 +1,7 @@
 <?php
 
-namespace ConstantinGD\treemanager;
-use ConstantinGD\treemanager\TreeAssetsBundle;
+namespace constantingd\treemanager;
+use constantingd\treemanager\TreeAssetsBundle;
 use yii\helpers\Html;
 use yii\helpers\Url;
 
