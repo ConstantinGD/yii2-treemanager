@@ -1,6 +1,6 @@
 <?php
 
-namespace ConstantinGD\treemanager;
+namespace constantingd\treemanager;
 
 /**
  * admin module definition class
@@ -10,7 +10,7 @@ class Module extends \yii\base\Module
     /**
      * @inheritdoc
      */
-    public $controllerNamespace = 'ConstantinGD\treemanager\controllers';
+    public $controllerNamespace = 'constantingd\treemanager\controllers';
 
     /**
      * @inheritdoc
