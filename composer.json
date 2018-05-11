@@ -1,13 +1,13 @@
 {
-    "name": "alex290/yii2-treemanager",
-    "description": "Yii2 Tree manager category",
+    "name": "ConstantinGD/yii2-treemanager",
+    "description": "Yii2 Tree manager (Category)",
     "type": "yii2-extension",
     "keywords": ["yii2","extension"],
     "license": "MIT",
     "authors": [
         {
-            "name": "WebGoal",
-            "email": "alex@webgoal.ru"
+            "name": "ConstantinGD",
+            "email": "grdog@yandex.ru"
         }
     ],
     "require": {
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "alex290\\treemanager\\": ""
+            "ConstantinGD\\treemanager\\": ""
         }
     }
 }
