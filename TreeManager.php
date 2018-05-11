@@ -1,7 +1,7 @@
 <?php
 
-namespace alex290\treemanager;
-use alex290\treemanager\TreeAssetsBundle;
+namespace ConstantinGD\treemanager;
+use ConstantinGD\treemanager\TreeAssetsBundle;
 use yii\helpers\Html;
 use yii\helpers\Url;
 
