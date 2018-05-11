@@ -6,7 +6,7 @@
  * and open the template in the editor.
  */
 
-namespace ConstantinGD\treemanager;
+namespace constantingd\treemanager;
 
 use yii\web\AssetBundle;
 
@@ -17,7 +17,7 @@ use yii\web\AssetBundle;
  */
 class TreeAssetsBundle extends AssetBundle {
     
-    public $sourcePath  = '@vendor/ConstantinGD/yii2-treemanager/scr';
+    public $sourcePath  = '@vendor/constantingd/yii2-treemanager/scr';
     public $css = [
         'css/main.css',
     ];
