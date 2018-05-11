@@ -17,7 +17,7 @@ use yii\web\AssetBundle;
  */
 class TreeAssetsBundle extends AssetBundle {
     
-    public $sourcePath  = '@vendor/alex290/yii2-treemanager/scr';
+    public $sourcePath  = '@vendor/ConstantinGD/yii2-treemanager/scr';
     public $css = [
         'css/main.css',
     ];
